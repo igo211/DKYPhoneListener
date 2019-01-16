@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DKYPhoneListener</string>
+    <string name="not_yet">"Not yet implemented"</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="filtering_inbound_calls">Filtering inbound calls.</string>
+    <string name="more_options">Tap here for more options</string>
+    <string name="exit_app">Exit DontKnowYa</string>
+    <string name="are_you_sure_exit">Are you sure you want to exit?  This will stop filtering inbound calls.</string>
+</resources>
